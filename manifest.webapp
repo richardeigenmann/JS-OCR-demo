@@ -1,0 +1,13 @@
+{
+  "name": "JS-OCR-demo",
+  "description": "Konrad Dzwinel's JavaScript OCR demo",
+  "launch_path": "/JS-OCR-demo/index.html",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Konrad Dzwinel",
+    "url": "http://richardeigenmann.github.io/JS-OCR-demo/"
+  },
+  "default_locale": "en"
+}
